@@ -1,0 +1,1 @@
+Tipsy is a multi-screen app through the use of segues. Tipsy is made so that bill splitting and tip calculating is easier! No one wants to work out $159.34 split between 5 people with a 20 percent tip :)
